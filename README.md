@@ -1,3 +1,4 @@
+![MPH Controller Interpreter Icon](https://github.com/Fighterbuilder/MPH-Controller-Interpreter/raw/main/MPHCI/Assets/MPHCI_8x.png)
 # MPH-Controller-Interpreter
  A controller-to-mouse interpreter purpose-built for playing Metroid Prime Hunters in the melonDS emulator.
 
